@@ -1,0 +1,4605 @@
+{
+    "nodes": [
+        {
+            "breed": "Grey Wolf",
+            "clade": "Wild",
+            "id": "WOLF"
+        },
+        {
+            "breed": "Basenji",
+            "clade": "Basenji",
+            "id": "BSJI"
+        },
+        {
+            "breed": "Xigou",
+            "clade": "AsianSpitz",
+            "id": "XIGO"
+        },
+        {
+            "breed": "Tibetan Mastiff - COO",
+            "clade": "AsianSpitz",
+            "id": "CHTM"
+        },
+        {
+            "breed": "Tibetan Mastiff - USA",
+            "clade": "AsianSpitz",
+            "id": "TIBM"
+        },
+        {
+            "breed": "Siberian Husky",
+            "clade": "AsianSpitz",
+            "id": "HUSK"
+        },
+        {
+            "breed": "Greenland Sledge Dog",
+            "clade": "AsianSpitz",
+            "id": "GREE"
+        },
+        {
+            "breed": "Alaskan Malamute",
+            "clade": "AsianSpitz",
+            "id": "AMAL"
+        },
+        {
+            "breed": "Shiba Inu",
+            "clade": "AsianSpitz",
+            "id": "SHIB"
+        },
+        {
+            "breed": "Akita",
+            "clade": "AsianSpitz",
+            "id": "AKIT"
+        },
+        {
+            "breed": "Chinese Shar-Pei",
+            "clade": "AsianSpitz",
+            "id": "SHAR"
+        },
+        {
+            "breed": "Chow Chow",
+            "clade": "AsianSpitz",
+            "id": "CHOW"
+        },
+        {
+            "breed": "Eurasier",
+            "clade": "",
+            "id": "EURA"
+        },
+        {
+            "breed": "Samoyed",
+            "clade": "",
+            "id": "SAMO"
+        },
+        {
+            "breed": "Finish Spitz",
+            "clade": "",
+            "id": "FINS"
+        },
+        {
+            "breed": "Japanese Chin",
+            "clade": "AsianToy",
+            "id": "CHIN"
+        },
+        {
+            "breed": "Tibetan Spaniel",
+            "clade": "AsianToy",
+            "id": "TIBS"
+        },
+        {
+            "breed": "Pekingese",
+            "clade": "AsianToy",
+            "id": "PEKE"
+        },
+        {
+            "breed": "Lhasa Apso",
+            "clade": "AsianToy",
+            "id": "LHSA"
+        },
+        {
+            "breed": "Shih Tzu",
+            "clade": "AsianToy",
+            "id": "SHIH"
+        },
+        {
+            "breed": "Tibetan Terrier",
+            "clade": "",
+            "id": "TIBT"
+        },
+        {
+            "breed": "Norwegian Elkhound",
+            "clade": "NordicSpitz",
+            "id": "NELK"
+        },
+        {
+            "breed": "Swedish Vallhund",
+            "clade": "NordicSpitz",
+            "id": "SVAL"
+        },
+        {
+            "breed": "Icelandic Sheepdog",
+            "clade": "NordicSpitz",
+            "id": "ICES"
+        },
+        {
+            "breed": "Keeshond",
+            "clade": "NordicSpitz",
+            "id": "KEES"
+        },
+        {
+            "breed": "Standard Schnauzer",
+            "clade": "Schnauzer",
+            "id": "SSNZ"
+        },
+        {
+            "breed": "Miniature Schnauzer",
+            "clade": "Schnauzer",
+            "id": "MSNZ"
+        },
+        {
+            "breed": "American Eskimo Dog",
+            "clade": "SmallSpitz",
+            "id": "AESK"
+        },
+        {
+            "breed": "Volpino",
+            "clade": "SmallSpitz",
+            "id": "VPIN"
+        },
+        {
+            "breed": "Pomeranian",
+            "clade": "SmallSpitz",
+            "id": "POM"
+        },
+        {
+            "breed": "Schipperke",
+            "clade": "ToySpitz",
+            "id": "SKIP"
+        },
+        {
+            "breed": "Papillon",
+            "clade": "ToySpitz",
+            "id": "PAPI"
+        },
+        {
+            "breed": "Brussels Griffon",
+            "clade": "ToySpitz",
+            "id": "BRUS"
+        },
+        {
+            "breed": "PugDog",
+            "clade": "ToySpitz",
+            "id": "PUG"
+        },
+        {
+            "breed": "Puli",
+            "clade": "Hungarian",
+            "id": "PULI"
+        },
+        {
+            "breed": "Pumi",
+            "clade": "Hungarian",
+            "id": "PUMI"
+        },
+        {
+            "breed": "Coton de Tulear",
+            "clade": "Poodle",
+            "id": "COTO"
+        },
+        {
+            "breed": "Portuguese Water Dog",
+            "clade": "Poodle",
+            "id": "PTWD"
+        },
+        {
+            "breed": "Standard Poodle",
+            "clade": "Poodle",
+            "id": "SPOO"
+        },
+        {
+            "breed": "Toy Poodle",
+            "clade": "Poodle",
+            "id": "TPOO"
+        },
+        {
+            "breed": "Miniature Poodle",
+            "clade": "Poodle",
+            "id": "MPOO"
+        },
+        {
+            "breed": "Bichon Frise",
+            "clade": "Poodle",
+            "id": "BICH"
+        },
+        {
+            "breed": "Havanese",
+            "clade": "Poodle",
+            "id": "HAVA"
+        },
+        {
+            "breed": "Maltese",
+            "clade": "Poodle",
+            "id": "MALT"
+        },
+        {
+            "breed": "Rat Terrier",
+            "clade": "AmericanTerrier",
+            "id": "RATT"
+        },
+        {
+            "breed": "Toy Fox Terrier",
+            "clade": "AmericanTerrier",
+            "id": "TYFX"
+        },
+        {
+            "breed": "American Hairless Terrier",
+            "clade": "AmericanTerrier",
+            "id": "AHRT"
+        },
+        {
+            "breed": "Chinese Crested",
+            "clade": "AmericanToy",
+            "id": "CRES"
+        },
+        {
+            "breed": "Chihuahua",
+            "clade": "AmericanToy",
+            "id": "CHIH"
+        },
+        {
+            "breed": "Toy Manchester Terrier",
+            "clade": "Pinscher",
+            "id": "MNTY"
+        },
+        {
+            "breed": "Miniature Pinscher",
+            "clade": "Pinscher",
+            "id": "MPIN"
+        },
+        {
+            "breed": "Airedale Terrier",
+            "clade": "Terrier",
+            "id": "AIRT"
+        },
+        {
+            "breed": "Kerry Blue Terrier",
+            "clade": "Terrier",
+            "id": "KERY"
+        },
+        {
+            "breed": "Glen of Imaal Terrier",
+            "clade": "Terrier",
+            "id": "GLEN"
+        },
+        {
+            "breed": "Soft Coated Wheaten Terrier",
+            "clade": "Terrier",
+            "id": "SCWT"
+        },
+        {
+            "breed": "Irish Terrier",
+            "clade": "Terrier",
+            "id": "IRIT"
+        },
+        {
+            "breed": "Bedlington Terrier",
+            "clade": "Terrier",
+            "id": "BEDT"
+        },
+        {
+            "breed": "Border Terrier",
+            "clade": "Terrier",
+            "id": "BORT"
+        },
+        {
+            "breed": "Parson Russell Terrier",
+            "clade": "Terrier",
+            "id": "PARS"
+        },
+        {
+            "breed": "Jack Russell terrier",
+            "clade": "Terrier",
+            "id": "JACK"
+        },
+        {
+            "breed": "Wire Fox Terrier",
+            "clade": "Terrier",
+            "id": "WFOX"
+        },
+        {
+            "breed": "Australian Terrier",
+            "clade": "Terrier",
+            "id": "AUST"
+        },
+        {
+            "breed": "Silky Terrier",
+            "clade": "Terrier",
+            "id": "SILK"
+        },
+        {
+            "breed": "Yorkshire Terrier",
+            "clade": "Terrier",
+            "id": "YORK"
+        },
+        {
+            "breed": "Norwich Terrier",
+            "clade": "Terrier",
+            "id": "NOWT"
+        },
+        {
+            "breed": "Norfolk Terrier",
+            "clade": "Terrier",
+            "id": "NORF"
+        },
+        {
+            "breed": "Scottish Terrier",
+            "clade": "Terrier",
+            "id": "SCOT"
+        },
+        {
+            "breed": "Cairn Terrier",
+            "clade": "Terrier",
+            "id": "CAIR"
+        },
+        {
+            "breed": "West Highland White Terrier",
+            "clade": "Terrier",
+            "id": "WHWT"
+        },
+        {
+            "breed": "Miniature Xoloitzcuintli",
+            "clade": "NewWorld",
+            "id": "MXOL"
+        },
+        {
+            "breed": "Xoloitzcuintli",
+            "clade": "NewWorld",
+            "id": "XOLO"
+        },
+        {
+            "breed": "Peruvian Hairless Dog",
+            "clade": "NewWorld",
+            "id": "INCA"
+        },
+        {
+            "breed": "Chinook",
+            "clade": "NewWorld",
+            "id": "COOK"
+        },
+        {
+            "breed": "Berger Picard",
+            "clade": "NewWorld",
+            "id": "BPIC"
+        },
+        {
+            "breed": "Cane Paratore",
+            "clade": "NewWorld",
+            "id": "CPAT"
+        },
+        {
+            "breed": "German Shepherd Dog",
+            "clade": "NewWorld",
+            "id": "GSD"
+        },
+        {
+            "breed": "Great Pyrenees",
+            "clade": "Mediterranean",
+            "id": "GPYR"
+        },
+        {
+            "breed": "Pharaoh Hound",
+            "clade": "Mediterranean",
+            "id": "PHAR"
+        },
+        {
+            "breed": "Cirneco dell'Etna",
+            "clade": "Mediterranean",
+            "id": "CIRN"
+        },
+        {
+            "breed": "Ibizan Hound",
+            "clade": "Mediterranean",
+            "id": "IBIZ"
+        },
+        {
+            "breed": "Komondor",
+            "clade": "Mediterranean",
+            "id": "KOMO"
+        },
+        {
+            "breed": "Kuvasz",
+            "clade": "Mediterranean",
+            "id": "KUVZ"
+        },
+        {
+            "breed": "Mastino Abruzzese",
+            "clade": "Mediterranean",
+            "id": "MAAB"
+        },
+        {
+            "breed": "Sloughi",
+            "clade": "Mediterranean",
+            "id": "SLOU"
+        },
+        {
+            "breed": "Levriero Meridionale",
+            "clade": "Mediterranean",
+            "id": "LVMD"
+        },
+        {
+            "breed": "Azawakh",
+            "clade": "Mediterranean",
+            "id": "AZWK"
+        },
+        {
+            "breed": "Anatolian Shepherd",
+            "clade": "Mediterranean",
+            "id": "ANAT"
+        },
+        {
+            "breed": "Afghan Hound",
+            "clade": "Mediterranean",
+            "id": "AFGH"
+        },
+        {
+            "breed": "Saluki - COO",
+            "clade": "Mediterranean",
+            "id": "COOS"
+        },
+        {
+            "breed": "Saluki - USA",
+            "clade": "Mediterranean",
+            "id": "SALU"
+        },
+        {
+            "breed": "Dachshund",
+            "clade": "ScentHound",
+            "id": "DACH"
+        },
+        {
+            "breed": "Petit Basset Griffon Vendeen",
+            "clade": "ScentHound",
+            "id": "PBGV"
+        },
+        {
+            "breed": "Basset Hound",
+            "clade": "ScentHound",
+            "id": "BASS"
+        },
+        {
+            "breed": "Redbone Coonhound",
+            "clade": "ScentHound",
+            "id": "REDB"
+        },
+        {
+            "breed": "Beagle",
+            "clade": "ScentHound",
+            "id": "BEAG"
+        },
+        {
+            "breed": "Foxhound",
+            "clade": "ScentHound",
+            "id": "FOXH"
+        },
+        {
+            "breed": "Otterhound",
+            "clade": "ScentHound",
+            "id": "OTTR"
+        },
+        {
+            "breed": "Bloodhound",
+            "clade": "ScentHound",
+            "id": "BLDH"
+        },
+        {
+            "breed": "English Springer Spaniel",
+            "clade": "Spaniel",
+            "id": "ESSP"
+        },
+        {
+            "breed": "Cavalier King Charles Spaniel",
+            "clade": "Spaniel",
+            "id": "CKCS"
+        },
+        {
+            "breed": "American Cocker Spaniel",
+            "clade": "Spaniel",
+            "id": "ACKR"
+        },
+        {
+            "breed": "Field Spaniel",
+            "clade": "Spaniel",
+            "id": "FIEL"
+        },
+        {
+            "breed": "English Cocker Spaniel",
+            "clade": "Spaniel",
+            "id": "ECKR"
+        },
+        {
+            "breed": "Nova Scotia Duck Tolling Retriever",
+            "clade": "Retriever",
+            "id": "NSDT"
+        },
+        {
+            "breed": "Curly-coated Retriever",
+            "clade": "Retriever",
+            "id": "CCRT"
+        },
+        {
+            "breed": "Irish Water Spaniel",
+            "clade": "Retriever",
+            "id": "IWSP"
+        },
+        {
+            "breed": "Newfoundland",
+            "clade": "Retriever",
+            "id": "NEWF"
+        },
+        {
+            "breed": "Labrador Retriever",
+            "clade": "Retriever",
+            "id": "LAB"
+        },
+        {
+            "breed": "Golden Retriever",
+            "clade": "Retriever",
+            "id": "GOLD"
+        },
+        {
+            "breed": "Flat-coated Retriever",
+            "clade": "Retriever",
+            "id": "FCR"
+        },
+        {
+            "breed": "Dalmatian",
+            "clade": "PointerSetter",
+            "id": "DALM"
+        },
+        {
+            "breed": "Weimaraner",
+            "clade": "PointerSetter",
+            "id": "WEIM"
+        },
+        {
+            "breed": "Large Munsterlander",
+            "clade": "PointerSetter",
+            "id": "LMUN"
+        },
+        {
+            "breed": "Vizsla",
+            "clade": "PointerSetter",
+            "id": "VIZS"
+        },
+        {
+            "breed": "Wirehaired Pointing Griffon",
+            "clade": "PointerSetter",
+            "id": "WHPG"
+        },
+        {
+            "breed": "German Wirehaired Pointer",
+            "clade": "PointerSetter",
+            "id": "GWHP"
+        },
+        {
+            "breed": "German Shorthaired Pointer",
+            "clade": "PointerSetter",
+            "id": "GSHP"
+        },
+        {
+            "breed": "Spinone Italiano",
+            "clade": "PointerSetter",
+            "id": "SPIN"
+        },
+        {
+            "breed": "Brittany",
+            "clade": "PointerSetter",
+            "id": "BRIT"
+        },
+        {
+            "breed": "Irish Setter",
+            "clade": "PointerSetter",
+            "id": "ISET"
+        },
+        {
+            "breed": "English Setter",
+            "clade": "PointerSetter",
+            "id": "ESET"
+        },
+        {
+            "breed": "Gordon Setter",
+            "clade": "PointerSetter",
+            "id": "GORD"
+        },
+        {
+            "breed": "Briard",
+            "clade": "ContinentalHerder",
+            "id": "BRIA"
+        },
+        {
+            "breed": "Bouvier des Flandres",
+            "clade": "ContinentalHerder",
+            "id": "BOUV"
+        },
+        {
+            "breed": "Belgian Malinois",
+            "clade": "ContinentalHerder",
+            "id": "BMAL"
+        },
+        {
+            "breed": "Belgian Tervuren",
+            "clade": "ContinentalHerder",
+            "id": "TURV"
+        },
+        {
+            "breed": "Belgian Sheepdog",
+            "clade": "ContinentalHerder",
+            "id": "BELS"
+        },
+        {
+            "breed": "Italian Greyhound",
+            "clade": "UKRural",
+            "id": "ITGY"
+        },
+        {
+            "breed": "Borzoi",
+            "clade": "UKRural",
+            "id": "BORZ"
+        },
+        {
+            "breed": "Irish Wolfhound",
+            "clade": "UKRural",
+            "id": "IWOF"
+        },
+        {
+            "breed": "Scottish Deerhound",
+            "clade": "UKRural",
+            "id": "DEER"
+        },
+        {
+            "breed": "Whippet",
+            "clade": "UKRural",
+            "id": "WHIP"
+        },
+        {
+            "breed": "Greyhound",
+            "clade": "UKRural",
+            "id": "GREY"
+        },
+        {
+            "breed": "Old English Sheepdog",
+            "clade": "UKRural",
+            "id": "OES"
+        },
+        {
+            "breed": "Australian Cattle Dog",
+            "clade": "UKRural",
+            "id": "AUCD"
+        },
+        {
+            "breed": "Bearded Collie",
+            "clade": "UKRural",
+            "id": "BERD"
+        },
+        {
+            "breed": "Kelpie",
+            "clade": "UKRural",
+            "id": "KELP"
+        },
+        {
+            "breed": "Border Collie",
+            "clade": "UKRural",
+            "id": "BORD"
+        },
+        {
+            "breed": "Pembroke Welsh Corgi",
+            "clade": "UKRural",
+            "id": "PEMB"
+        },
+        {
+            "breed": "Cardigan Welsh Corgi",
+            "clade": "UKRural",
+            "id": "CARD"
+        },
+        {
+            "breed": "Australian Shepherd",
+            "clade": "UKRural",
+            "id": "AUSS"
+        },
+        {
+            "breed": "Collie",
+            "clade": "UKRural",
+            "id": "COLL"
+        },
+        {
+            "breed": "Shetland Sheepdog",
+            "clade": "UKRural",
+            "id": "SSHP"
+        },
+        {
+            "breed": "Doberman Pinscher",
+            "clade": "Drover",
+            "id": "DOBP"
+        },
+        {
+            "breed": "Giant Schnauzer",
+            "clade": "Drover",
+            "id": "GSNZ"
+        },
+        {
+            "breed": "Black Russian Terrier",
+            "clade": "Drover",
+            "id": "BRTR"
+        },
+        {
+            "breed": "Rottweiler",
+            "clade": "Drover",
+            "id": "ROTT"
+        },
+        {
+            "breed": "Greater Swiss Mountain Dog",
+            "clade": "Alpine",
+            "id": "GSMD"
+        },
+        {
+            "breed": "Bernese Mountain Dog",
+            "clade": "Alpine",
+            "id": "BMD"
+        },
+        {
+            "breed": "Leonberger",
+            "clade": "Alpine",
+            "id": "LEON"
+        },
+        {
+            "breed": "Saint Bernard",
+            "clade": "Alpine",
+            "id": "STBD"
+        },
+        {
+            "breed": "Rhodesian Ridgeback",
+            "clade": "EuropeanMastiff",
+            "id": "RHOD"
+        },
+        {
+            "breed": "Great Dane",
+            "clade": "EuropeanMastiff",
+            "id": "DANE"
+        },
+        {
+            "breed": "Cane Corso - COO",
+            "clade": "EuropeanMastiff",
+            "id": "ITCC"
+        },
+        {
+            "breed": "Cane Corso - USA",
+            "clade": "EuropeanMastiff",
+            "id": "CANE"
+        },
+        {
+            "breed": "Neapolitan Mastiff",
+            "clade": "EuropeanMastiff",
+            "id": "NEAP"
+        },
+        {
+            "breed": "Boerboel",
+            "clade": "EuropeanMastiff",
+            "id": "BOER"
+        },
+        {
+            "breed": "Bullmastiff",
+            "clade": "EuropeanMastiff",
+            "id": "BULM"
+        },
+        {
+            "breed": "English Mastiff",
+            "clade": "EuropeanMastiff",
+            "id": "MAST"
+        },
+        {
+            "breed": "American Staffordshire Terrier",
+            "clade": "EuropeanMastiff",
+            "id": "AMST"
+        },
+        {
+            "breed": "Staffordshire Bull Terrier",
+            "clade": "EuropeanMastiff",
+            "id": "STAF"
+        },
+        {
+            "breed": "Miniature Bull Terrier",
+            "clade": "EuropeanMastiff",
+            "id": "MBLT"
+        },
+        {
+            "breed": "Bull Terrier",
+            "clade": "EuropeanMastiff",
+            "id": "BULT"
+        },
+        {
+            "breed": "French Bulldog",
+            "clade": "EuropeanMastiff",
+            "id": "FBUL"
+        },
+        {
+            "breed": "Boston Terrier",
+            "clade": "EuropeanMastiff",
+            "id": "BOST"
+        },
+        {
+            "breed": "Dogue de Bordeaux",
+            "clade": "EuropeanMastiff",
+            "id": "DDBX"
+        },
+        {
+            "breed": "Bulldog",
+            "clade": "EuropeanMastiff",
+            "id": "BULD"
+        },
+        {
+            "breed": "Boxer",
+            "clade": "EuropeanMastiff",
+            "id": "BOX"
+        }
+    ],
+    "links": [
+        {
+            "clade": "Basenji",
+            "breed": "Basenji",
+            "source": "BSJI",
+            "target": "RATT",
+            "outValue": 24646769
+        },
+        {
+            "clade": "Basenji",
+            "breed": "Basenji",
+            "source": "BSJI",
+            "target": "AZWK",
+            "outValue": 12474508
+        },
+        {
+            "clade": "AsianSpitz",
+            "breed": "Tibetan Mastiff - COO",
+            "source": "CHTM",
+            "target": "TIBM",
+            "outValue": 17486957
+        },
+        {
+            "clade": "AsianSpitz",
+            "breed": "Siberian Husky",
+            "source": "HUSK",
+            "target": "GREE",
+            "outValue": 116287890
+        },
+        {
+            "clade": "AsianSpitz",
+            "breed": "Siberian Husky",
+            "source": "HUSK",
+            "target": "AMAL",
+            "outValue": 99279236
+        },
+        {
+            "clade": "AsianSpitz",
+            "breed": "Siberian Husky",
+            "source": "HUSK",
+            "target": "SAMO",
+            "outValue": 12318598
+        },
+        {
+            "clade": "AsianSpitz",
+            "breed": "Siberian Husky",
+            "source": "HUSK",
+            "target": "COOK",
+            "outValue": 13796914
+        },
+        {
+            "clade": "AsianSpitz",
+            "breed": "Greenland Sledge Dog",
+            "source": "GREE",
+            "target": "AMAL",
+            "outValue": 282701817
+        },
+        {
+            "clade": "AsianSpitz",
+            "breed": "Greenland Sledge Dog",
+            "source": "GREE",
+            "target": "SAMO",
+            "outValue": 14733738
+        },
+        {
+            "clade": "AsianSpitz",
+            "breed": "Greenland Sledge Dog",
+            "source": "GREE",
+            "target": "COOK",
+            "outValue": 73991631
+        },
+        {
+            "clade": "AsianSpitz",
+            "breed": "Alaskan Malamute",
+            "source": "AMAL",
+            "target": "COOK",
+            "outValue": 41036934
+        },
+        {
+            "clade": "AsianSpitz",
+            "breed": "Shiba Inu",
+            "source": "SHIB",
+            "target": "AKIT",
+            "outValue": 13127242
+        },
+        {
+            "clade": "AsianSpitz",
+            "breed": "Shiba Inu",
+            "source": "SHIB",
+            "target": "CHIN",
+            "outValue": 17139847
+        },
+        {
+            "clade": "AsianSpitz",
+            "breed": "Akita",
+            "source": "AKIT",
+            "target": "CHIN",
+            "outValue": 13932005
+        },
+        {
+            "clade": "AsianSpitz",
+            "breed": "Chinese Shar-Pei",
+            "source": "SHAR",
+            "target": "CHOW",
+            "outValue": 14833454
+        },
+        {
+            "clade": "AsianSpitz",
+            "breed": "Chinese Shar-Pei",
+            "source": "SHAR",
+            "target": "BOX",
+            "outValue": 22515421
+        },
+        {
+            "clade": "AsianSpitz",
+            "breed": "Chow Chow",
+            "source": "CHOW",
+            "target": "EURA",
+            "outValue": 178562836
+        },
+        {
+            "clade": "",
+            "breed": "Eurasier",
+            "source": "EURA",
+            "target": "SAMO",
+            "outValue": 58478336
+        },
+        {
+            "clade": "",
+            "breed": "Eurasier",
+            "source": "EURA",
+            "target": "KEES",
+            "outValue": 36699570
+        },
+        {
+            "clade": "",
+            "breed": "Samoyed",
+            "source": "SAMO",
+            "target": "AESK",
+            "outValue": 14446128
+        },
+        {
+            "clade": "AsianToy",
+            "breed": "Japanese Chin",
+            "source": "CHIN",
+            "target": "TIBS",
+            "outValue": 15189208
+        },
+        {
+            "clade": "AsianToy",
+            "breed": "Japanese Chin",
+            "source": "CHIN",
+            "target": "PEKE",
+            "outValue": 28728370
+        },
+        {
+            "clade": "AsianToy",
+            "breed": "Japanese Chin",
+            "source": "CHIN",
+            "target": "LHSA",
+            "outValue": 21208456
+        },
+        {
+            "clade": "AsianToy",
+            "breed": "Japanese Chin",
+            "source": "CHIN",
+            "target": "SHIH",
+            "outValue": 18155498
+        },
+        {
+            "clade": "AsianToy",
+            "breed": "Tibetan Spaniel",
+            "source": "TIBS",
+            "target": "PEKE",
+            "outValue": 128224531
+        },
+        {
+            "clade": "AsianToy",
+            "breed": "Tibetan Spaniel",
+            "source": "TIBS",
+            "target": "LHSA",
+            "outValue": 55076548
+        },
+        {
+            "clade": "AsianToy",
+            "breed": "Tibetan Spaniel",
+            "source": "TIBS",
+            "target": "SHIH",
+            "outValue": 80443458
+        },
+        {
+            "clade": "AsianToy",
+            "breed": "Tibetan Spaniel",
+            "source": "TIBS",
+            "target": "TIBT",
+            "outValue": 15956670
+        },
+        {
+            "clade": "AsianToy",
+            "breed": "Pekingese",
+            "source": "PEKE",
+            "target": "LHSA",
+            "outValue": 110577441
+        },
+        {
+            "clade": "AsianToy",
+            "breed": "Pekingese",
+            "source": "PEKE",
+            "target": "SHIH",
+            "outValue": 155354320
+        },
+        {
+            "clade": "AsianToy",
+            "breed": "Pekingese",
+            "source": "PEKE",
+            "target": "TIBT",
+            "outValue": 16571312
+        },
+        {
+            "clade": "AsianToy",
+            "breed": "Pekingese",
+            "source": "PEKE",
+            "target": "PUG",
+            "outValue": 12826098
+        },
+        {
+            "clade": "AsianToy",
+            "breed": "Pekingese",
+            "source": "PEKE",
+            "target": "CRES",
+            "outValue": 16155682
+        },
+        {
+            "clade": "AsianToy",
+            "breed": "Pekingese",
+            "source": "PEKE",
+            "target": "MXOL",
+            "outValue": 10386437
+        },
+        {
+            "clade": "AsianToy",
+            "breed": "Lhasa Apso",
+            "source": "LHSA",
+            "target": "SHIH",
+            "outValue": 142069738
+        },
+        {
+            "clade": "AsianToy",
+            "breed": "Lhasa Apso",
+            "source": "LHSA",
+            "target": "TIBT",
+            "outValue": 17304595
+        },
+        {
+            "clade": "AsianToy",
+            "breed": "Lhasa Apso",
+            "source": "LHSA",
+            "target": "PUG",
+            "outValue": 9852027
+        },
+        {
+            "clade": "AsianToy",
+            "breed": "Shih Tzu",
+            "source": "SHIH",
+            "target": "TIBT",
+            "outValue": 14739258
+        },
+        {
+            "clade": "AsianToy",
+            "breed": "Shih Tzu",
+            "source": "SHIH",
+            "target": "PUG",
+            "outValue": 12179436
+        },
+        {
+            "clade": "",
+            "breed": "Tibetan Terrier",
+            "source": "TIBT",
+            "target": "PUG",
+            "outValue": 13713794
+        },
+        {
+            "clade": "",
+            "breed": "Tibetan Terrier",
+            "source": "TIBT",
+            "target": "WFOX",
+            "outValue": 13030532
+        },
+        {
+            "clade": "NordicSpitz",
+            "breed": "Swedish Vallhund",
+            "source": "SVAL",
+            "target": "ICES",
+            "outValue": 13834141
+        },
+        {
+            "clade": "NordicSpitz",
+            "breed": "Swedish Vallhund",
+            "source": "SVAL",
+            "target": "KEES",
+            "outValue": 16036964
+        },
+        {
+            "clade": "NordicSpitz",
+            "breed": "Icelandic Sheepdog",
+            "source": "ICES",
+            "target": "KEES",
+            "outValue": 12354893
+        },
+        {
+            "clade": "NordicSpitz",
+            "breed": "Icelandic Sheepdog",
+            "source": "ICES",
+            "target": "AESK",
+            "outValue": 14627453
+        },
+        {
+            "clade": "NordicSpitz",
+            "breed": "Icelandic Sheepdog",
+            "source": "ICES",
+            "target": "MNTY",
+            "outValue": 12346119
+        },
+        {
+            "clade": "NordicSpitz",
+            "breed": "Keeshond",
+            "source": "KEES",
+            "target": "SSNZ",
+            "outValue": 10477796
+        },
+        {
+            "clade": "NordicSpitz",
+            "breed": "Keeshond",
+            "source": "KEES",
+            "target": "MSNZ",
+            "outValue": 10232861
+        },
+        {
+            "clade": "NordicSpitz",
+            "breed": "Keeshond",
+            "source": "KEES",
+            "target": "AESK",
+            "outValue": 10381171
+        },
+        {
+            "clade": "NordicSpitz",
+            "breed": "Keeshond",
+            "source": "KEES",
+            "target": "POM",
+            "outValue": 15072311
+        },
+        {
+            "clade": "NordicSpitz",
+            "breed": "Keeshond",
+            "source": "KEES",
+            "target": "SKIP",
+            "outValue": 10516003
+        },
+        {
+            "clade": "Schnauzer",
+            "breed": "Standard Schnauzer",
+            "source": "SSNZ",
+            "target": "MSNZ",
+            "outValue": 28346819
+        },
+        {
+            "clade": "Schnauzer",
+            "breed": "Standard Schnauzer",
+            "source": "SSNZ",
+            "target": "POM",
+            "outValue": 12934787
+        },
+        {
+            "clade": "Schnauzer",
+            "breed": "Standard Schnauzer",
+            "source": "SSNZ",
+            "target": "PUG",
+            "outValue": 10476134
+        },
+        {
+            "clade": "Schnauzer",
+            "breed": "Standard Schnauzer",
+            "source": "SSNZ",
+            "target": "GSNZ",
+            "outValue": 24196453
+        },
+        {
+            "clade": "Schnauzer",
+            "breed": "Miniature Schnauzer",
+            "source": "MSNZ",
+            "target": "PUG",
+            "outValue": 17725560
+        },
+        {
+            "clade": "SmallSpitz",
+            "breed": "American Eskimo Dog",
+            "source": "AESK",
+            "target": "POM",
+            "outValue": 12699833
+        },
+        {
+            "clade": "SmallSpitz",
+            "breed": "American Eskimo Dog",
+            "source": "AESK",
+            "target": "SKIP",
+            "outValue": 10014647
+        },
+        {
+            "clade": "SmallSpitz",
+            "breed": "American Eskimo Dog",
+            "source": "AESK",
+            "target": "PUG",
+            "outValue": 12120706
+        },
+        {
+            "clade": "SmallSpitz",
+            "breed": "American Eskimo Dog",
+            "source": "AESK",
+            "target": "AHRT",
+            "outValue": 10516235
+        },
+        {
+            "clade": "SmallSpitz",
+            "breed": "American Eskimo Dog",
+            "source": "AESK",
+            "target": "CRES",
+            "outValue": 10652440
+        },
+        {
+            "clade": "SmallSpitz",
+            "breed": "Volpino",
+            "source": "VPIN",
+            "target": "POM",
+            "outValue": 28695972
+        },
+        {
+            "clade": "SmallSpitz",
+            "breed": "Pomeranian",
+            "source": "POM",
+            "target": "SKIP",
+            "outValue": 10240580
+        },
+        {
+            "clade": "SmallSpitz",
+            "breed": "Pomeranian",
+            "source": "POM",
+            "target": "PUG",
+            "outValue": 10264844
+        },
+        {
+            "clade": "SmallSpitz",
+            "breed": "Pomeranian",
+            "source": "POM",
+            "target": "MPIN",
+            "outValue": 12650680
+        },
+        {
+            "clade": "ToySpitz",
+            "breed": "Schipperke",
+            "source": "SKIP",
+            "target": "BRUS",
+            "outValue": 15158336
+        },
+        {
+            "clade": "ToySpitz",
+            "breed": "Schipperke",
+            "source": "SKIP",
+            "target": "PUG",
+            "outValue": 16345904
+        },
+        {
+            "clade": "ToySpitz",
+            "breed": "Papillon",
+            "source": "PAPI",
+            "target": "BRUS",
+            "outValue": 12618631
+        },
+        {
+            "clade": "ToySpitz",
+            "breed": "Papillon",
+            "source": "PAPI",
+            "target": "PUG",
+            "outValue": 12859671
+        },
+        {
+            "clade": "ToySpitz",
+            "breed": "Brussels Griffon",
+            "source": "BRUS",
+            "target": "PUG",
+            "outValue": 59567054
+        },
+        {
+            "clade": "ToySpitz",
+            "breed": "Brussels Griffon",
+            "source": "BRUS",
+            "target": "CKCS",
+            "outValue": 27887666
+        },
+        {
+            "clade": "ToySpitz",
+            "breed": "PugDog",
+            "source": "PUG",
+            "target": "PULI",
+            "outValue": 9865584
+        },
+        {
+            "clade": "ToySpitz",
+            "breed": "PugDog",
+            "source": "PUG",
+            "target": "COTO",
+            "outValue": 18768248
+        },
+        {
+            "clade": "ToySpitz",
+            "breed": "PugDog",
+            "source": "PUG",
+            "target": "BICH",
+            "outValue": 10992635
+        },
+        {
+            "clade": "ToySpitz",
+            "breed": "PugDog",
+            "source": "PUG",
+            "target": "RATT",
+            "outValue": 10449796
+        },
+        {
+            "clade": "ToySpitz",
+            "breed": "PugDog",
+            "source": "PUG",
+            "target": "CRES",
+            "outValue": 12018565
+        },
+        {
+            "clade": "ToySpitz",
+            "breed": "PugDog",
+            "source": "PUG",
+            "target": "BORT",
+            "outValue": 10250539
+        },
+        {
+            "clade": "ToySpitz",
+            "breed": "PugDog",
+            "source": "PUG",
+            "target": "NSDT",
+            "outValue": 14612352
+        },
+        {
+            "clade": "Hungarian",
+            "breed": "Puli",
+            "source": "PULI",
+            "target": "PUMI",
+            "outValue": 28409335
+        },
+        {
+            "clade": "Hungarian",
+            "breed": "Pumi",
+            "source": "PUMI",
+            "target": "GSD",
+            "outValue": 10571528
+        },
+        {
+            "clade": "Hungarian",
+            "breed": "Pumi",
+            "source": "PUMI",
+            "target": "DOBP",
+            "outValue": 9837430
+        },
+        {
+            "clade": "Poodle",
+            "breed": "Coton de Tulear",
+            "source": "COTO",
+            "target": "MALT",
+            "outValue": 16098142
+        },
+        {
+            "clade": "Poodle",
+            "breed": "Coton de Tulear",
+            "source": "COTO",
+            "target": "BPIC",
+            "outValue": 14418520
+        },
+        {
+            "clade": "Poodle",
+            "breed": "Coton de Tulear",
+            "source": "COTO",
+            "target": "ECKR",
+            "outValue": 11943054
+        },
+        {
+            "clade": "Poodle",
+            "breed": "Portuguese Water Dog",
+            "source": "PTWD",
+            "target": "SPOO",
+            "outValue": 12930318
+        },
+        {
+            "clade": "Poodle",
+            "breed": "Portuguese Water Dog",
+            "source": "PTWD",
+            "target": "MPOO",
+            "outValue": 11935341
+        },
+        {
+            "clade": "Poodle",
+            "breed": "Portuguese Water Dog",
+            "source": "PTWD",
+            "target": "BPIC",
+            "outValue": 17783608
+        },
+        {
+            "clade": "Poodle",
+            "breed": "Portuguese Water Dog",
+            "source": "PTWD",
+            "target": "GSD",
+            "outValue": 28709762
+        },
+        {
+            "clade": "Poodle",
+            "breed": "Standard Poodle",
+            "source": "SPOO",
+            "target": "TPOO",
+            "outValue": 26439726
+        },
+        {
+            "clade": "Poodle",
+            "breed": "Standard Poodle",
+            "source": "SPOO",
+            "target": "MPOO",
+            "outValue": 37163060
+        },
+        {
+            "clade": "Poodle",
+            "breed": "Toy Poodle",
+            "source": "TPOO",
+            "target": "MPOO",
+            "outValue": 148334993
+        },
+        {
+            "clade": "Poodle",
+            "breed": "Toy Poodle",
+            "source": "TPOO",
+            "target": "BICH",
+            "outValue": 12945384
+        },
+        {
+            "clade": "Poodle",
+            "breed": "Toy Poodle",
+            "source": "TPOO",
+            "target": "HAVA",
+            "outValue": 17597637
+        },
+        {
+            "clade": "Poodle",
+            "breed": "Toy Poodle",
+            "source": "TPOO",
+            "target": "MALT",
+            "outValue": 10718733
+        },
+        {
+            "clade": "Poodle",
+            "breed": "Miniature Poodle",
+            "source": "MPOO",
+            "target": "BICH",
+            "outValue": 10232534
+        },
+        {
+            "clade": "Poodle",
+            "breed": "Miniature Poodle",
+            "source": "MPOO",
+            "target": "HAVA",
+            "outValue": 15685208
+        },
+        {
+            "clade": "Poodle",
+            "breed": "Bichon Frise",
+            "source": "BICH",
+            "target": "HAVA",
+            "outValue": 28956799
+        },
+        {
+            "clade": "Poodle",
+            "breed": "Bichon Frise",
+            "source": "BICH",
+            "target": "MALT",
+            "outValue": 15284612
+        },
+        {
+            "clade": "Poodle",
+            "breed": "Havanese",
+            "source": "HAVA",
+            "target": "MALT",
+            "outValue": 125891752
+        },
+        {
+            "clade": "AmericanTerrier",
+            "breed": "Rat Terrier",
+            "source": "RATT",
+            "target": "TYFX",
+            "outValue": 20463662
+        },
+        {
+            "clade": "AmericanTerrier",
+            "breed": "Rat Terrier",
+            "source": "RATT",
+            "target": "AHRT",
+            "outValue": 14184832
+        },
+        {
+            "clade": "AmericanTerrier",
+            "breed": "Rat Terrier",
+            "source": "RATT",
+            "target": "PARS",
+            "outValue": 13248938
+        },
+        {
+            "clade": "AmericanTerrier",
+            "breed": "Rat Terrier",
+            "source": "RATT",
+            "target": "JACK",
+            "outValue": 12485176
+        },
+        {
+            "clade": "AmericanTerrier",
+            "breed": "Rat Terrier",
+            "source": "RATT",
+            "target": "WFOX",
+            "outValue": 21129950
+        },
+        {
+            "clade": "AmericanTerrier",
+            "breed": "Rat Terrier",
+            "source": "RATT",
+            "target": "ACKR",
+            "outValue": 11453650
+        },
+        {
+            "clade": "AmericanTerrier",
+            "breed": "Toy Fox Terrier",
+            "source": "TYFX",
+            "target": "AHRT",
+            "outValue": 14696586
+        },
+        {
+            "clade": "AmericanTerrier",
+            "breed": "Toy Fox Terrier",
+            "source": "TYFX",
+            "target": "MNTY",
+            "outValue": 12305156
+        },
+        {
+            "clade": "AmericanTerrier",
+            "breed": "Toy Fox Terrier",
+            "source": "TYFX",
+            "target": "SCWT",
+            "outValue": 10253826
+        },
+        {
+            "clade": "AmericanTerrier",
+            "breed": "Toy Fox Terrier",
+            "source": "TYFX",
+            "target": "PARS",
+            "outValue": 11976100
+        },
+        {
+            "clade": "AmericanTerrier",
+            "breed": "Toy Fox Terrier",
+            "source": "TYFX",
+            "target": "JACK",
+            "outValue": 13011632
+        },
+        {
+            "clade": "AmericanTerrier",
+            "breed": "Toy Fox Terrier",
+            "source": "TYFX",
+            "target": "WFOX",
+            "outValue": 25920250
+        },
+        {
+            "clade": "AmericanTerrier",
+            "breed": "American Hairless Terrier",
+            "source": "AHRT",
+            "target": "CHIH",
+            "outValue": 10542286
+        },
+        {
+            "clade": "AmericanTerrier",
+            "breed": "American Hairless Terrier",
+            "source": "AHRT",
+            "target": "MNTY",
+            "outValue": 14393513
+        },
+        {
+            "clade": "AmericanTerrier",
+            "breed": "American Hairless Terrier",
+            "source": "AHRT",
+            "target": "PARS",
+            "outValue": 10562772
+        },
+        {
+            "clade": "AmericanTerrier",
+            "breed": "American Hairless Terrier",
+            "source": "AHRT",
+            "target": "JACK",
+            "outValue": 11803011
+        },
+        {
+            "clade": "AmericanTerrier",
+            "breed": "American Hairless Terrier",
+            "source": "AHRT",
+            "target": "WFOX",
+            "outValue": 20670315
+        },
+        {
+            "clade": "AmericanToy",
+            "breed": "Chinese Crested",
+            "source": "CRES",
+            "target": "CHIH",
+            "outValue": 23675138
+        },
+        {
+            "clade": "AmericanToy",
+            "breed": "Chinese Crested",
+            "source": "CRES",
+            "target": "MNTY",
+            "outValue": 10285540
+        },
+        {
+            "clade": "AmericanToy",
+            "breed": "Chinese Crested",
+            "source": "CRES",
+            "target": "MXOL",
+            "outValue": 13055485
+        },
+        {
+            "clade": "Pinscher",
+            "breed": "Toy Manchester Terrier",
+            "source": "MNTY",
+            "target": "MPIN",
+            "outValue": 21117658
+        },
+        {
+            "clade": "Pinscher",
+            "breed": "Toy Manchester Terrier",
+            "source": "MNTY",
+            "target": "AIRT",
+            "outValue": 11968360
+        },
+        {
+            "clade": "Pinscher",
+            "breed": "Toy Manchester Terrier",
+            "source": "MNTY",
+            "target": "KERY",
+            "outValue": 11103326
+        },
+        {
+            "clade": "Pinscher",
+            "breed": "Toy Manchester Terrier",
+            "source": "MNTY",
+            "target": "IRIT",
+            "outValue": 13485737
+        },
+        {
+            "clade": "Pinscher",
+            "breed": "Toy Manchester Terrier",
+            "source": "MNTY",
+            "target": "BEDT",
+            "outValue": 10701254
+        },
+        {
+            "clade": "Pinscher",
+            "breed": "Toy Manchester Terrier",
+            "source": "MNTY",
+            "target": "BORT",
+            "outValue": 19298776
+        },
+        {
+            "clade": "Pinscher",
+            "breed": "Toy Manchester Terrier",
+            "source": "MNTY",
+            "target": "PARS",
+            "outValue": 15719250
+        },
+        {
+            "clade": "Pinscher",
+            "breed": "Toy Manchester Terrier",
+            "source": "MNTY",
+            "target": "JACK",
+            "outValue": 12896107
+        },
+        {
+            "clade": "Pinscher",
+            "breed": "Toy Manchester Terrier",
+            "source": "MNTY",
+            "target": "WFOX",
+            "outValue": 18825000
+        },
+        {
+            "clade": "Pinscher",
+            "breed": "Toy Manchester Terrier",
+            "source": "MNTY",
+            "target": "AUST",
+            "outValue": 12289046
+        },
+        {
+            "clade": "Pinscher",
+            "breed": "Toy Manchester Terrier",
+            "source": "MNTY",
+            "target": "MXOL",
+            "outValue": 14213622
+        },
+        {
+            "clade": "Pinscher",
+            "breed": "Toy Manchester Terrier",
+            "source": "MNTY",
+            "target": "REDB",
+            "outValue": 10931052
+        },
+        {
+            "clade": "Pinscher",
+            "breed": "Toy Manchester Terrier",
+            "source": "MNTY",
+            "target": "CKCS",
+            "outValue": 12232649
+        },
+        {
+            "clade": "Pinscher",
+            "breed": "Toy Manchester Terrier",
+            "source": "MNTY",
+            "target": "ITGY",
+            "outValue": 10685530
+        },
+        {
+            "clade": "Pinscher",
+            "breed": "Toy Manchester Terrier",
+            "source": "MNTY",
+            "target": "WHIP",
+            "outValue": 10121958
+        },
+        {
+            "clade": "Pinscher",
+            "breed": "Toy Manchester Terrier",
+            "source": "MNTY",
+            "target": "DOBP",
+            "outValue": 24074180
+        },
+        {
+            "clade": "Pinscher",
+            "breed": "Toy Manchester Terrier",
+            "source": "MNTY",
+            "target": "BULT",
+            "outValue": 9801981
+        },
+        {
+            "clade": "Pinscher",
+            "breed": "Miniature Pinscher",
+            "source": "MPIN",
+            "target": "IRIT",
+            "outValue": 9907398
+        },
+        {
+            "clade": "Pinscher",
+            "breed": "Miniature Pinscher",
+            "source": "MPIN",
+            "target": "CKCS",
+            "outValue": 12012133
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Airedale Terrier",
+            "source": "AIRT",
+            "target": "GLEN",
+            "outValue": 11958961
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Airedale Terrier",
+            "source": "AIRT",
+            "target": "IRIT",
+            "outValue": 20580226
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Airedale Terrier",
+            "source": "AIRT",
+            "target": "YORK",
+            "outValue": 20335154
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Airedale Terrier",
+            "source": "AIRT",
+            "target": "WHWT",
+            "outValue": 12727450
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Airedale Terrier",
+            "source": "AIRT",
+            "target": "OTTR",
+            "outValue": 11654633
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Airedale Terrier",
+            "source": "AIRT",
+            "target": "NSDT",
+            "outValue": 13167206
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Airedale Terrier",
+            "source": "AIRT",
+            "target": "GOLD",
+            "outValue": 11016301
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Airedale Terrier",
+            "source": "AIRT",
+            "target": "KELP",
+            "outValue": 10946768
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Airedale Terrier",
+            "source": "AIRT",
+            "target": "AUSS",
+            "outValue": 10296622
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Airedale Terrier",
+            "source": "AIRT",
+            "target": "SSHP",
+            "outValue": 11034657
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Airedale Terrier",
+            "source": "AIRT",
+            "target": "GSNZ",
+            "outValue": 24632272
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Airedale Terrier",
+            "source": "AIRT",
+            "target": "BRTR",
+            "outValue": 38187285
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Airedale Terrier",
+            "source": "AIRT",
+            "target": "RHOD",
+            "outValue": 12191958
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Kerry Blue Terrier",
+            "source": "KERY",
+            "target": "GLEN",
+            "outValue": 17503420
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Kerry Blue Terrier",
+            "source": "KERY",
+            "target": "SCWT",
+            "outValue": 58013757
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Kerry Blue Terrier",
+            "source": "KERY",
+            "target": "IRIT",
+            "outValue": 18921610
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Kerry Blue Terrier",
+            "source": "KERY",
+            "target": "BEDT",
+            "outValue": 13420029
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Kerry Blue Terrier",
+            "source": "KERY",
+            "target": "AMST",
+            "outValue": 10687932
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Kerry Blue Terrier",
+            "source": "KERY",
+            "target": "FBUL",
+            "outValue": 10198334
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Kerry Blue Terrier",
+            "source": "KERY",
+            "target": "BOST",
+            "outValue": 11620680
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Kerry Blue Terrier",
+            "source": "KERY",
+            "target": "DDBX",
+            "outValue": 11353574
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Kerry Blue Terrier",
+            "source": "KERY",
+            "target": "BOX",
+            "outValue": 11028778
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Glen of Imaal Terrier",
+            "source": "GLEN",
+            "target": "SCWT",
+            "outValue": 41861594
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Glen of Imaal Terrier",
+            "source": "GLEN",
+            "target": "IRIT",
+            "outValue": 19146223
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Glen of Imaal Terrier",
+            "source": "GLEN",
+            "target": "BEDT",
+            "outValue": 10592221
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Glen of Imaal Terrier",
+            "source": "GLEN",
+            "target": "BORT",
+            "outValue": 9761348
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Glen of Imaal Terrier",
+            "source": "GLEN",
+            "target": "WFOX",
+            "outValue": 10508473
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Glen of Imaal Terrier",
+            "source": "GLEN",
+            "target": "AMST",
+            "outValue": 11657958
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Glen of Imaal Terrier",
+            "source": "GLEN",
+            "target": "STAF",
+            "outValue": 30566575
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Glen of Imaal Terrier",
+            "source": "GLEN",
+            "target": "MBLT",
+            "outValue": 17624496
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Glen of Imaal Terrier",
+            "source": "GLEN",
+            "target": "BULT",
+            "outValue": 13168402
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Glen of Imaal Terrier",
+            "source": "GLEN",
+            "target": "FBUL",
+            "outValue": 10836989
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Glen of Imaal Terrier",
+            "source": "GLEN",
+            "target": "BULD",
+            "outValue": 14488016
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Glen of Imaal Terrier",
+            "source": "GLEN",
+            "target": "BOX",
+            "outValue": 11684681
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Soft Coated Wheaten Terrier",
+            "source": "SCWT",
+            "target": "IRIT",
+            "outValue": 98716048
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Soft Coated Wheaten Terrier",
+            "source": "SCWT",
+            "target": "BEDT",
+            "outValue": 11944866
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Soft Coated Wheaten Terrier",
+            "source": "SCWT",
+            "target": "BORT",
+            "outValue": 12688093
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Soft Coated Wheaten Terrier",
+            "source": "SCWT",
+            "target": "JACK",
+            "outValue": 10580135
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Soft Coated Wheaten Terrier",
+            "source": "SCWT",
+            "target": "WFOX",
+            "outValue": 25291092
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Soft Coated Wheaten Terrier",
+            "source": "SCWT",
+            "target": "AMST",
+            "outValue": 11235480
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Soft Coated Wheaten Terrier",
+            "source": "SCWT",
+            "target": "STAF",
+            "outValue": 9810240
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Soft Coated Wheaten Terrier",
+            "source": "SCWT",
+            "target": "FBUL",
+            "outValue": 11742190
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Soft Coated Wheaten Terrier",
+            "source": "SCWT",
+            "target": "BULD",
+            "outValue": 10735837
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Irish Terrier",
+            "source": "IRIT",
+            "target": "BEDT",
+            "outValue": 13329252
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Irish Terrier",
+            "source": "IRIT",
+            "target": "BORT",
+            "outValue": 10543676
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Irish Terrier",
+            "source": "IRIT",
+            "target": "JACK",
+            "outValue": 10915888
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Irish Terrier",
+            "source": "IRIT",
+            "target": "AUST",
+            "outValue": 13673248
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Irish Terrier",
+            "source": "IRIT",
+            "target": "SILK",
+            "outValue": 11053086
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Irish Terrier",
+            "source": "IRIT",
+            "target": "YORK",
+            "outValue": 12698846
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Irish Terrier",
+            "source": "IRIT",
+            "target": "NOWT",
+            "outValue": 11707654
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Irish Terrier",
+            "source": "IRIT",
+            "target": "NORF",
+            "outValue": 17391352
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Irish Terrier",
+            "source": "IRIT",
+            "target": "BOX",
+            "outValue": 9887866
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Bedlington Terrier",
+            "source": "BEDT",
+            "target": "BORT",
+            "outValue": 44666888
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Bedlington Terrier",
+            "source": "BEDT",
+            "target": "PARS",
+            "outValue": 22918566
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Bedlington Terrier",
+            "source": "BEDT",
+            "target": "JACK",
+            "outValue": 14555584
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Bedlington Terrier",
+            "source": "BEDT",
+            "target": "NOWT",
+            "outValue": 13446480
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Bedlington Terrier",
+            "source": "BEDT",
+            "target": "NORF",
+            "outValue": 11454409
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Bedlington Terrier",
+            "source": "BEDT",
+            "target": "FOXH",
+            "outValue": 9958495
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Bedlington Terrier",
+            "source": "BEDT",
+            "target": "ESSP",
+            "outValue": 10228568
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Bedlington Terrier",
+            "source": "BEDT",
+            "target": "FIEL",
+            "outValue": 12563133
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Bedlington Terrier",
+            "source": "BEDT",
+            "target": "WHIP",
+            "outValue": 11037378
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Border Terrier",
+            "source": "BORT",
+            "target": "PARS",
+            "outValue": 55529610
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Border Terrier",
+            "source": "BORT",
+            "target": "JACK",
+            "outValue": 29731677
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Border Terrier",
+            "source": "BORT",
+            "target": "WFOX",
+            "outValue": 10522871
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Border Terrier",
+            "source": "BORT",
+            "target": "OTTR",
+            "outValue": 9749873
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Parson Russell Terrier",
+            "source": "PARS",
+            "target": "JACK",
+            "outValue": 55447201
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Parson Russell Terrier",
+            "source": "PARS",
+            "target": "WFOX",
+            "outValue": 74318935
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Parson Russell Terrier",
+            "source": "PARS",
+            "target": "STAF",
+            "outValue": 11737054
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Jack Russell terrier",
+            "source": "JACK",
+            "target": "WFOX",
+            "outValue": 84506325
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Wire Fox Terrier",
+            "source": "WFOX",
+            "target": "NOWT",
+            "outValue": 11967904
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Wire Fox Terrier",
+            "source": "WFOX",
+            "target": "NORF",
+            "outValue": 11968464
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Wire Fox Terrier",
+            "source": "WFOX",
+            "target": "PEMB",
+            "outValue": 12830432
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Australian Terrier",
+            "source": "AUST",
+            "target": "SILK",
+            "outValue": 67563463
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Australian Terrier",
+            "source": "AUST",
+            "target": "YORK",
+            "outValue": 29512873
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Australian Terrier",
+            "source": "AUST",
+            "target": "NOWT",
+            "outValue": 12093765
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Silky Terrier",
+            "source": "SILK",
+            "target": "YORK",
+            "outValue": 62405202
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Silky Terrier",
+            "source": "SILK",
+            "target": "NOWT",
+            "outValue": 13140640
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Silky Terrier",
+            "source": "SILK",
+            "target": "NORF",
+            "outValue": 16476636
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Yorkshire Terrier",
+            "source": "YORK",
+            "target": "NOWT",
+            "outValue": 23627170
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Yorkshire Terrier",
+            "source": "YORK",
+            "target": "NORF",
+            "outValue": 30059566
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Norwich Terrier",
+            "source": "NOWT",
+            "target": "NORF",
+            "outValue": 211750504
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Norwich Terrier",
+            "source": "NOWT",
+            "target": "SCOT",
+            "outValue": 46649270
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Norwich Terrier",
+            "source": "NOWT",
+            "target": "CAIR",
+            "outValue": 31303900
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Norwich Terrier",
+            "source": "NOWT",
+            "target": "WHWT",
+            "outValue": 42074378
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Norfolk Terrier",
+            "source": "NORF",
+            "target": "SCOT",
+            "outValue": 25577978
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Norfolk Terrier",
+            "source": "NORF",
+            "target": "CAIR",
+            "outValue": 23057828
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Norfolk Terrier",
+            "source": "NORF",
+            "target": "WHWT",
+            "outValue": 29624687
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Scottish Terrier",
+            "source": "SCOT",
+            "target": "CAIR",
+            "outValue": 87033415
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Scottish Terrier",
+            "source": "SCOT",
+            "target": "WHWT",
+            "outValue": 134552529
+        },
+        {
+            "clade": "Terrier",
+            "breed": "Cairn Terrier",
+            "source": "CAIR",
+            "target": "WHWT",
+            "outValue": 156744042
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Miniature Xoloitzcuintli",
+            "source": "MXOL",
+            "target": "XOLO",
+            "outValue": 12596727
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Miniature Xoloitzcuintli",
+            "source": "MXOL",
+            "target": "COOK",
+            "outValue": 11376104
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Xoloitzcuintli",
+            "source": "XOLO",
+            "target": "COOK",
+            "outValue": 18546850
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Xoloitzcuintli",
+            "source": "XOLO",
+            "target": "BPIC",
+            "outValue": 20751269
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Xoloitzcuintli",
+            "source": "XOLO",
+            "target": "CPAT",
+            "outValue": 12143380
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Xoloitzcuintli",
+            "source": "XOLO",
+            "target": "GSD",
+            "outValue": 64169666
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Xoloitzcuintli",
+            "source": "XOLO",
+            "target": "BMAL",
+            "outValue": 9800916
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Xoloitzcuintli",
+            "source": "XOLO",
+            "target": "COLL",
+            "outValue": 10084036
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Xoloitzcuintli",
+            "source": "XOLO",
+            "target": "DOBP",
+            "outValue": 18752854
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Peruvian Hairless Dog",
+            "source": "INCA",
+            "target": "COOK",
+            "outValue": 11676145
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Peruvian Hairless Dog",
+            "source": "INCA",
+            "target": "BPIC",
+            "outValue": 10708762
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Peruvian Hairless Dog",
+            "source": "INCA",
+            "target": "CPAT",
+            "outValue": 11869204
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Peruvian Hairless Dog",
+            "source": "INCA",
+            "target": "GSD",
+            "outValue": 35569116
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Peruvian Hairless Dog",
+            "source": "INCA",
+            "target": "DOBP",
+            "outValue": 11510704
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Chinook",
+            "source": "COOK",
+            "target": "BPIC",
+            "outValue": 47395991
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Chinook",
+            "source": "COOK",
+            "target": "CPAT",
+            "outValue": 36635638
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Chinook",
+            "source": "COOK",
+            "target": "GSD",
+            "outValue": 122244313
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Chinook",
+            "source": "COOK",
+            "target": "BMAL",
+            "outValue": 15331749
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Chinook",
+            "source": "COOK",
+            "target": "BERD",
+            "outValue": 10690378
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Chinook",
+            "source": "COOK",
+            "target": "AUSS",
+            "outValue": 16649770
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Chinook",
+            "source": "COOK",
+            "target": "COLL",
+            "outValue": 30414484
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Chinook",
+            "source": "COOK",
+            "target": "SSHP",
+            "outValue": 15373677
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Chinook",
+            "source": "COOK",
+            "target": "LEON",
+            "outValue": 14825331
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Chinook",
+            "source": "COOK",
+            "target": "ITCC",
+            "outValue": 10509217
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Berger Picard",
+            "source": "BPIC",
+            "target": "CPAT",
+            "outValue": 46424034
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Berger Picard",
+            "source": "BPIC",
+            "target": "GSD",
+            "outValue": 123855029
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Berger Picard",
+            "source": "BPIC",
+            "target": "BOUV",
+            "outValue": 77578770
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Berger Picard",
+            "source": "BPIC",
+            "target": "BMAL",
+            "outValue": 29983100
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Berger Picard",
+            "source": "BPIC",
+            "target": "TURV",
+            "outValue": 26196084
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Berger Picard",
+            "source": "BPIC",
+            "target": "BELS",
+            "outValue": 18391105
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Berger Picard",
+            "source": "BPIC",
+            "target": "DOBP",
+            "outValue": 10790609
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Berger Picard",
+            "source": "BPIC",
+            "target": "GSMD",
+            "outValue": 17202820
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Berger Picard",
+            "source": "BPIC",
+            "target": "LEON",
+            "outValue": 19750965
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Cane Paratore",
+            "source": "CPAT",
+            "target": "GSD",
+            "outValue": 124159673
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Cane Paratore",
+            "source": "CPAT",
+            "target": "BMAL",
+            "outValue": 11352213
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "Cane Paratore",
+            "source": "CPAT",
+            "target": "BOX",
+            "outValue": 10232096
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "German Shepherd Dog",
+            "source": "GSD",
+            "target": "MAAB",
+            "outValue": 18857836
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "German Shepherd Dog",
+            "source": "GSD",
+            "target": "BMAL",
+            "outValue": 42637010
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "German Shepherd Dog",
+            "source": "GSD",
+            "target": "AUSS",
+            "outValue": 14801507
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "German Shepherd Dog",
+            "source": "GSD",
+            "target": "DOBP",
+            "outValue": 14780340
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "German Shepherd Dog",
+            "source": "GSD",
+            "target": "GSMD",
+            "outValue": 13529884
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "German Shepherd Dog",
+            "source": "GSD",
+            "target": "LEON",
+            "outValue": 26443088
+        },
+        {
+            "clade": "NewWorld",
+            "breed": "German Shepherd Dog",
+            "source": "GSD",
+            "target": "ITCC",
+            "outValue": 17690919
+        },
+        {
+            "clade": "Mediterranean",
+            "breed": "Pharaoh Hound",
+            "source": "PHAR",
+            "target": "CIRN",
+            "outValue": 142654186
+        },
+        {
+            "clade": "Mediterranean",
+            "breed": "Pharaoh Hound",
+            "source": "PHAR",
+            "target": "IBIZ",
+            "outValue": 92039650
+        },
+        {
+            "clade": "Mediterranean",
+            "breed": "Pharaoh Hound",
+            "source": "PHAR",
+            "target": "WHIP",
+            "outValue": 13071986
+        },
+        {
+            "clade": "Mediterranean",
+            "breed": "Cirneco dell'Etna",
+            "source": "CIRN",
+            "target": "IBIZ",
+            "outValue": 36996302
+        },
+        {
+            "clade": "Mediterranean",
+            "breed": "Sloughi",
+            "source": "SLOU",
+            "target": "LVMD",
+            "outValue": 37193250
+        },
+        {
+            "clade": "Mediterranean",
+            "breed": "Sloughi",
+            "source": "SLOU",
+            "target": "AZWK",
+            "outValue": 17877064
+        },
+        {
+            "clade": "Mediterranean",
+            "breed": "Sloughi",
+            "source": "SLOU",
+            "target": "SALU",
+            "outValue": 12000270
+        },
+        {
+            "clade": "Mediterranean",
+            "breed": "Levriero Meridionale",
+            "source": "LVMD",
+            "target": "AZWK",
+            "outValue": 22265678
+        },
+        {
+            "clade": "Mediterranean",
+            "breed": "Anatolian Shepherd",
+            "source": "ANAT",
+            "target": "SALU",
+            "outValue": 9783984
+        },
+        {
+            "clade": "Mediterranean",
+            "breed": "Afghan Hound",
+            "source": "AFGH",
+            "target": "COOS",
+            "outValue": 17598624
+        },
+        {
+            "clade": "Mediterranean",
+            "breed": "Afghan Hound",
+            "source": "AFGH",
+            "target": "SALU",
+            "outValue": 27830962
+        },
+        {
+            "clade": "Mediterranean",
+            "breed": "Saluki - COO",
+            "source": "COOS",
+            "target": "SALU",
+            "outValue": 41803092
+        },
+        {
+            "clade": "ScentHound",
+            "breed": "Petit Basset Griffon Vendeen",
+            "source": "PBGV",
+            "target": "REDB",
+            "outValue": 11995049
+        },
+        {
+            "clade": "ScentHound",
+            "breed": "Petit Basset Griffon Vendeen",
+            "source": "PBGV",
+            "target": "BEAG",
+            "outValue": 14678549
+        },
+        {
+            "clade": "ScentHound",
+            "breed": "Petit Basset Griffon Vendeen",
+            "source": "PBGV",
+            "target": "FOXH",
+            "outValue": 20999674
+        },
+        {
+            "clade": "ScentHound",
+            "breed": "Petit Basset Griffon Vendeen",
+            "source": "PBGV",
+            "target": "OTTR",
+            "outValue": 20394603
+        },
+        {
+            "clade": "ScentHound",
+            "breed": "Petit Basset Griffon Vendeen",
+            "source": "PBGV",
+            "target": "BLDH",
+            "outValue": 15399350
+        },
+        {
+            "clade": "ScentHound",
+            "breed": "Basset Hound",
+            "source": "BASS",
+            "target": "BASS",
+            "outValue": 14831391
+        },
+        {
+            "clade": "ScentHound",
+            "breed": "Basset Hound",
+            "source": "BASS",
+            "target": "REDB",
+            "outValue": 18673263
+        },
+        {
+            "clade": "ScentHound",
+            "breed": "Basset Hound",
+            "source": "BASS",
+            "target": "BEAG",
+            "outValue": 18888768
+        },
+        {
+            "clade": "ScentHound",
+            "breed": "Basset Hound",
+            "source": "BASS",
+            "target": "FOXH",
+            "outValue": 18405750
+        },
+        {
+            "clade": "ScentHound",
+            "breed": "Basset Hound",
+            "source": "BASS",
+            "target": "OTTR",
+            "outValue": 18517446
+        },
+        {
+            "clade": "ScentHound",
+            "breed": "Basset Hound",
+            "source": "BASS",
+            "target": "BLDH",
+            "outValue": 27071246
+        },
+        {
+            "clade": "ScentHound",
+            "breed": "Redbone Coonhound",
+            "source": "REDB",
+            "target": "BEAG",
+            "outValue": 56315784
+        },
+        {
+            "clade": "ScentHound",
+            "breed": "Redbone Coonhound",
+            "source": "REDB",
+            "target": "FOXH",
+            "outValue": 44437958
+        },
+        {
+            "clade": "ScentHound",
+            "breed": "Redbone Coonhound",
+            "source": "REDB",
+            "target": "OTTR",
+            "outValue": 39853260
+        },
+        {
+            "clade": "ScentHound",
+            "breed": "Redbone Coonhound",
+            "source": "REDB",
+            "target": "BLDH",
+            "outValue": 37764866
+        },
+        {
+            "clade": "ScentHound",
+            "breed": "Beagle",
+            "source": "BEAG",
+            "target": "FOXH",
+            "outValue": 61014616
+        },
+        {
+            "clade": "ScentHound",
+            "breed": "Beagle",
+            "source": "BEAG",
+            "target": "OTTR",
+            "outValue": 44755076
+        },
+        {
+            "clade": "ScentHound",
+            "breed": "Beagle",
+            "source": "BEAG",
+            "target": "BLDH",
+            "outValue": 50048221
+        },
+        {
+            "clade": "ScentHound",
+            "breed": "Foxhound",
+            "source": "FOXH",
+            "target": "OTTR",
+            "outValue": 86296562
+        },
+        {
+            "clade": "ScentHound",
+            "breed": "Foxhound",
+            "source": "FOXH",
+            "target": "BLDH",
+            "outValue": 58197571
+        },
+        {
+            "clade": "ScentHound",
+            "breed": "Otterhound",
+            "source": "OTTR",
+            "target": "BLDH",
+            "outValue": 108242803
+        },
+        {
+            "clade": "Spaniel",
+            "breed": "English Springer Spaniel",
+            "source": "ESSP",
+            "target": "CKCS",
+            "outValue": 15498514
+        },
+        {
+            "clade": "Spaniel",
+            "breed": "English Springer Spaniel",
+            "source": "ESSP",
+            "target": "ACKR",
+            "outValue": 20908428
+        },
+        {
+            "clade": "Spaniel",
+            "breed": "English Springer Spaniel",
+            "source": "ESSP",
+            "target": "FIEL",
+            "outValue": 44716682
+        },
+        {
+            "clade": "Spaniel",
+            "breed": "English Springer Spaniel",
+            "source": "ESSP",
+            "target": "ECKR",
+            "outValue": 39981518
+        },
+        {
+            "clade": "Spaniel",
+            "breed": "Cavalier King Charles Spaniel",
+            "source": "CKCS",
+            "target": "ACKR",
+            "outValue": 14833062
+        },
+        {
+            "clade": "Spaniel",
+            "breed": "Cavalier King Charles Spaniel",
+            "source": "CKCS",
+            "target": "FIEL",
+            "outValue": 19572618
+        },
+        {
+            "clade": "Spaniel",
+            "breed": "Cavalier King Charles Spaniel",
+            "source": "CKCS",
+            "target": "ECKR",
+            "outValue": 21123080
+        },
+        {
+            "clade": "Spaniel",
+            "breed": "American Cocker Spaniel",
+            "source": "ACKR",
+            "target": "FIEL",
+            "outValue": 40383914
+        },
+        {
+            "clade": "Spaniel",
+            "breed": "American Cocker Spaniel",
+            "source": "ACKR",
+            "target": "ECKR",
+            "outValue": 60059714
+        },
+        {
+            "clade": "Spaniel",
+            "breed": "American Cocker Spaniel",
+            "source": "ACKR",
+            "target": "NSDT",
+            "outValue": 19916784
+        },
+        {
+            "clade": "Spaniel",
+            "breed": "American Cocker Spaniel",
+            "source": "ACKR",
+            "target": "IWSP",
+            "outValue": 11259908
+        },
+        {
+            "clade": "Spaniel",
+            "breed": "Field Spaniel",
+            "source": "FIEL",
+            "target": "ECKR",
+            "outValue": 137726126
+        },
+        {
+            "clade": "Spaniel",
+            "breed": "Field Spaniel",
+            "source": "FIEL",
+            "target": "SPIN",
+            "outValue": 10083641
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Nova Scotia Duck Tolling Retriever",
+            "source": "NSDT",
+            "target": "LAB",
+            "outValue": 13082062
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Nova Scotia Duck Tolling Retriever",
+            "source": "NSDT",
+            "target": "FCR",
+            "outValue": 11221816
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Nova Scotia Duck Tolling Retriever",
+            "source": "NSDT",
+            "target": "BERD",
+            "outValue": 10467140
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Nova Scotia Duck Tolling Retriever",
+            "source": "NSDT",
+            "target": "COLL",
+            "outValue": 28666204
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Nova Scotia Duck Tolling Retriever",
+            "source": "NSDT",
+            "target": "SSHP",
+            "outValue": 20934422
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Curly-coated Retriever",
+            "source": "CCRT",
+            "target": "IWSP",
+            "outValue": 15491078
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Curly-coated Retriever",
+            "source": "CCRT",
+            "target": "NEWF",
+            "outValue": 10290085
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Curly-coated Retriever",
+            "source": "CCRT",
+            "target": "LAB",
+            "outValue": 10672618
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Curly-coated Retriever",
+            "source": "CCRT",
+            "target": "GOLD",
+            "outValue": 15901339
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Curly-coated Retriever",
+            "source": "CCRT",
+            "target": "FCR",
+            "outValue": 10760382
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Curly-coated Retriever",
+            "source": "CCRT",
+            "target": "ISET",
+            "outValue": 10159728
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Irish Water Spaniel",
+            "source": "IWSP",
+            "target": "GOLD",
+            "outValue": 11387450
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Irish Water Spaniel",
+            "source": "IWSP",
+            "target": "FCR",
+            "outValue": 11089812
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Irish Water Spaniel",
+            "source": "IWSP",
+            "target": "ISET",
+            "outValue": 11737678
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Newfoundland",
+            "source": "NEWF",
+            "target": "LAB",
+            "outValue": 17832278
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Newfoundland",
+            "source": "NEWF",
+            "target": "GOLD",
+            "outValue": 19455284
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Newfoundland",
+            "source": "NEWF",
+            "target": "FCR",
+            "outValue": 17594460
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Newfoundland",
+            "source": "NEWF",
+            "target": "BRTR",
+            "outValue": 18954486
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Newfoundland",
+            "source": "NEWF",
+            "target": "STBD",
+            "outValue": 12260099
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Newfoundland",
+            "source": "NEWF",
+            "target": "MAST",
+            "outValue": 12057132
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Labrador Retriever",
+            "source": "LAB",
+            "target": "GOLD",
+            "outValue": 35116147
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Labrador Retriever",
+            "source": "LAB",
+            "target": "FCR",
+            "outValue": 57025134
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Golden Retriever",
+            "source": "GOLD",
+            "target": "FCR",
+            "outValue": 66993738
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Golden Retriever",
+            "source": "GOLD",
+            "target": "ISET",
+            "outValue": 15351200
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Golden Retriever",
+            "source": "GOLD",
+            "target": "ESET",
+            "outValue": 11192868
+        },
+        {
+            "clade": "Retriever",
+            "breed": "Flat-coated Retriever",
+            "source": "FCR",
+            "target": "ESET",
+            "outValue": 11675077
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Weimaraner",
+            "source": "WEIM",
+            "target": "LMUN",
+            "outValue": 11895748
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Weimaraner",
+            "source": "WEIM",
+            "target": "WHPG",
+            "outValue": 11916994
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Weimaraner",
+            "source": "WEIM",
+            "target": "GWHP",
+            "outValue": 15607184
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Weimaraner",
+            "source": "WEIM",
+            "target": "GSHP",
+            "outValue": 18741235
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Large Munsterlander",
+            "source": "LMUN",
+            "target": "VIZS",
+            "outValue": 12523407
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Large Munsterlander",
+            "source": "LMUN",
+            "target": "WHPG",
+            "outValue": 12332946
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Large Munsterlander",
+            "source": "LMUN",
+            "target": "GWHP",
+            "outValue": 18048048
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Large Munsterlander",
+            "source": "LMUN",
+            "target": "GSHP",
+            "outValue": 20328822
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Large Munsterlander",
+            "source": "LMUN",
+            "target": "GORD",
+            "outValue": 10050811
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Vizsla",
+            "source": "VIZS",
+            "target": "WHPG",
+            "outValue": 13677150
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Vizsla",
+            "source": "VIZS",
+            "target": "GWHP",
+            "outValue": 21470561
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Vizsla",
+            "source": "VIZS",
+            "target": "GSHP",
+            "outValue": 20880604
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Vizsla",
+            "source": "VIZS",
+            "target": "BRIT",
+            "outValue": 10042294
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Vizsla",
+            "source": "VIZS",
+            "target": "ISET",
+            "outValue": 12536859
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Vizsla",
+            "source": "VIZS",
+            "target": "ESET",
+            "outValue": 13902178
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Vizsla",
+            "source": "VIZS",
+            "target": "GORD",
+            "outValue": 16576454
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Wirehaired Pointing Griffon",
+            "source": "WHPG",
+            "target": "GWHP",
+            "outValue": 43038250
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Wirehaired Pointing Griffon",
+            "source": "WHPG",
+            "target": "GSHP",
+            "outValue": 23098860
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Wirehaired Pointing Griffon",
+            "source": "WHPG",
+            "target": "SPIN",
+            "outValue": 17999114
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Wirehaired Pointing Griffon",
+            "source": "WHPG",
+            "target": "BRIT",
+            "outValue": 12151536
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Wirehaired Pointing Griffon",
+            "source": "WHPG",
+            "target": "ESET",
+            "outValue": 13865884
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Wirehaired Pointing Griffon",
+            "source": "WHPG",
+            "target": "GORD",
+            "outValue": 12548378
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "German Wirehaired Pointer",
+            "source": "GWHP",
+            "target": "GSHP",
+            "outValue": 46285089
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "German Wirehaired Pointer",
+            "source": "GWHP",
+            "target": "SPIN",
+            "outValue": 10951264
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "German Wirehaired Pointer",
+            "source": "GWHP",
+            "target": "BRIT",
+            "outValue": 9869390
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "German Wirehaired Pointer",
+            "source": "GWHP",
+            "target": "ISET",
+            "outValue": 15556022
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "German Wirehaired Pointer",
+            "source": "GWHP",
+            "target": "ESET",
+            "outValue": 14518682
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "German Wirehaired Pointer",
+            "source": "GWHP",
+            "target": "GORD",
+            "outValue": 11399780
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "German Shorthaired Pointer",
+            "source": "GSHP",
+            "target": "SPIN",
+            "outValue": 17304730
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "German Shorthaired Pointer",
+            "source": "GSHP",
+            "target": "ESET",
+            "outValue": 13799180
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "German Shorthaired Pointer",
+            "source": "GSHP",
+            "target": "GORD",
+            "outValue": 12154365
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Spinone Italiano",
+            "source": "SPIN",
+            "target": "BRIT",
+            "outValue": 19245093
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Spinone Italiano",
+            "source": "SPIN",
+            "target": "ISET",
+            "outValue": 10328394
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Spinone Italiano",
+            "source": "SPIN",
+            "target": "ESET",
+            "outValue": 10692824
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Spinone Italiano",
+            "source": "SPIN",
+            "target": "GORD",
+            "outValue": 13464605
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Brittany",
+            "source": "BRIT",
+            "target": "ISET",
+            "outValue": 15821900
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Brittany",
+            "source": "BRIT",
+            "target": "ESET",
+            "outValue": 37256465
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Brittany",
+            "source": "BRIT",
+            "target": "GORD",
+            "outValue": 19080664
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Irish Setter",
+            "source": "ISET",
+            "target": "ESET",
+            "outValue": 24517294
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "Irish Setter",
+            "source": "ISET",
+            "target": "GORD",
+            "outValue": 36751221
+        },
+        {
+            "clade": "PointerSetter",
+            "breed": "English Setter",
+            "source": "ESET",
+            "target": "GORD",
+            "outValue": 50094100
+        },
+        {
+            "clade": "ContinentalHerder",
+            "breed": "Briard",
+            "source": "BRIA",
+            "target": "TURV",
+            "outValue": 10540722
+        },
+        {
+            "clade": "ContinentalHerder",
+            "breed": "Briard",
+            "source": "BRIA",
+            "target": "BELS",
+            "outValue": 11814069
+        },
+        {
+            "clade": "ContinentalHerder",
+            "breed": "Bouvier des Flandres",
+            "source": "BOUV",
+            "target": "BMAL",
+            "outValue": 15487173
+        },
+        {
+            "clade": "ContinentalHerder",
+            "breed": "Bouvier des Flandres",
+            "source": "BOUV",
+            "target": "TURV",
+            "outValue": 21446638
+        },
+        {
+            "clade": "ContinentalHerder",
+            "breed": "Bouvier des Flandres",
+            "source": "BOUV",
+            "target": "BELS",
+            "outValue": 17684617
+        },
+        {
+            "clade": "ContinentalHerder",
+            "breed": "Belgian Malinois",
+            "source": "BMAL",
+            "target": "TURV",
+            "outValue": 88360061
+        },
+        {
+            "clade": "ContinentalHerder",
+            "breed": "Belgian Malinois",
+            "source": "BMAL",
+            "target": "BELS",
+            "outValue": 76335058
+        },
+        {
+            "clade": "ContinentalHerder",
+            "breed": "Belgian Tervuren",
+            "source": "TURV",
+            "target": "BELS",
+            "outValue": 278221682
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Italian Greyhound",
+            "source": "ITGY",
+            "target": "WHIP",
+            "outValue": 27095446
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Italian Greyhound",
+            "source": "ITGY",
+            "target": "GREY",
+            "outValue": 16544240
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Borzoi",
+            "source": "BORZ",
+            "target": "DEER",
+            "outValue": 10034408
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Irish Wolfhound",
+            "source": "IWOF",
+            "target": "DEER",
+            "outValue": 121952556
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Irish Wolfhound",
+            "source": "IWOF",
+            "target": "WHIP",
+            "outValue": 9796306
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Irish Wolfhound",
+            "source": "IWOF",
+            "target": "GREY",
+            "outValue": 19294283
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Irish Wolfhound",
+            "source": "IWOF",
+            "target": "DANE",
+            "outValue": 38445892
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Scottish Deerhound",
+            "source": "DEER",
+            "target": "WHIP",
+            "outValue": 24174209
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Scottish Deerhound",
+            "source": "DEER",
+            "target": "GREY",
+            "outValue": 37620130
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Whippet",
+            "source": "WHIP",
+            "target": "GREY",
+            "outValue": 61714854
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Greyhound",
+            "source": "GREY",
+            "target": "RHOD",
+            "outValue": 11933662
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Old English Sheepdog",
+            "source": "OES",
+            "target": "BERD",
+            "outValue": 20798068
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Old English Sheepdog",
+            "source": "OES",
+            "target": "KELP",
+            "outValue": 17945038
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Old English Sheepdog",
+            "source": "OES",
+            "target": "BORD",
+            "outValue": 19168267
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Old English Sheepdog",
+            "source": "OES",
+            "target": "PEMB",
+            "outValue": 12388608
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Old English Sheepdog",
+            "source": "OES",
+            "target": "AUSS",
+            "outValue": 11729279
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Old English Sheepdog",
+            "source": "OES",
+            "target": "COLL",
+            "outValue": 16507326
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Old English Sheepdog",
+            "source": "OES",
+            "target": "SSHP",
+            "outValue": 14690078
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Australian Cattle Dog",
+            "source": "AUCD",
+            "target": "BERD",
+            "outValue": 16229333
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Australian Cattle Dog",
+            "source": "AUCD",
+            "target": "KELP",
+            "outValue": 22369358
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Australian Cattle Dog",
+            "source": "AUCD",
+            "target": "BORD",
+            "outValue": 17817030
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Australian Cattle Dog",
+            "source": "AUCD",
+            "target": "COLL",
+            "outValue": 14318496
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Australian Cattle Dog",
+            "source": "AUCD",
+            "target": "SSHP",
+            "outValue": 11276616
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Bearded Collie",
+            "source": "BERD",
+            "target": "KELP",
+            "outValue": 41790248
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Bearded Collie",
+            "source": "BERD",
+            "target": "BORD",
+            "outValue": 77836548
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Bearded Collie",
+            "source": "BERD",
+            "target": "PEMB",
+            "outValue": 23328050
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Bearded Collie",
+            "source": "BERD",
+            "target": "CARD",
+            "outValue": 22569002
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Bearded Collie",
+            "source": "BERD",
+            "target": "AUSS",
+            "outValue": 19062726
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Bearded Collie",
+            "source": "BERD",
+            "target": "COLL",
+            "outValue": 63118472
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Bearded Collie",
+            "source": "BERD",
+            "target": "SSHP",
+            "outValue": 30645512
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Kelpie",
+            "source": "KELP",
+            "target": "BORD",
+            "outValue": 62630356
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Kelpie",
+            "source": "KELP",
+            "target": "PEMB",
+            "outValue": 18217997
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Kelpie",
+            "source": "KELP",
+            "target": "CARD",
+            "outValue": 23022674
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Kelpie",
+            "source": "KELP",
+            "target": "AUSS",
+            "outValue": 15424222
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Kelpie",
+            "source": "KELP",
+            "target": "COLL",
+            "outValue": 17876629
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Kelpie",
+            "source": "KELP",
+            "target": "SSHP",
+            "outValue": 20198950
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Kelpie",
+            "source": "KELP",
+            "target": "BULD",
+            "outValue": 11105890
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Border Collie",
+            "source": "BORD",
+            "target": "PEMB",
+            "outValue": 19140476
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Border Collie",
+            "source": "BORD",
+            "target": "CARD",
+            "outValue": 23755814
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Border Collie",
+            "source": "BORD",
+            "target": "AUSS",
+            "outValue": 19970365
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Border Collie",
+            "source": "BORD",
+            "target": "COLL",
+            "outValue": 36160617
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Border Collie",
+            "source": "BORD",
+            "target": "SSHP",
+            "outValue": 27943496
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Pembroke Welsh Corgi",
+            "source": "PEMB",
+            "target": "CARD",
+            "outValue": 73907979
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Pembroke Welsh Corgi",
+            "source": "PEMB",
+            "target": "AUSS",
+            "outValue": 13066578
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Pembroke Welsh Corgi",
+            "source": "PEMB",
+            "target": "COLL",
+            "outValue": 44060659
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Pembroke Welsh Corgi",
+            "source": "PEMB",
+            "target": "SSHP",
+            "outValue": 31318657
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Cardigan Welsh Corgi",
+            "source": "CARD",
+            "target": "AUSS",
+            "outValue": 14732524
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Cardigan Welsh Corgi",
+            "source": "CARD",
+            "target": "COLL",
+            "outValue": 40297680
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Cardigan Welsh Corgi",
+            "source": "CARD",
+            "target": "SSHP",
+            "outValue": 29458490
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Australian Shepherd",
+            "source": "AUSS",
+            "target": "COLL",
+            "outValue": 61750910
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Australian Shepherd",
+            "source": "AUSS",
+            "target": "SSHP",
+            "outValue": 33550508
+        },
+        {
+            "clade": "UKRural",
+            "breed": "Collie",
+            "source": "COLL",
+            "target": "SSHP",
+            "outValue": 252255695
+        },
+        {
+            "clade": "Drover",
+            "breed": "Doberman Pinscher",
+            "source": "DOBP",
+            "target": "GSNZ",
+            "outValue": 25105813
+        },
+        {
+            "clade": "Drover",
+            "breed": "Doberman Pinscher",
+            "source": "DOBP",
+            "target": "BRTR",
+            "outValue": 9766786
+        },
+        {
+            "clade": "Drover",
+            "breed": "Giant Schnauzer",
+            "source": "GSNZ",
+            "target": "BRTR",
+            "outValue": 88333458
+        },
+        {
+            "clade": "Drover",
+            "breed": "Black Russian Terrier",
+            "source": "BRTR",
+            "target": "ROTT",
+            "outValue": 180249610
+        },
+        {
+            "clade": "Drover",
+            "breed": "Black Russian Terrier",
+            "source": "BRTR",
+            "target": "GSMD",
+            "outValue": 11654607
+        },
+        {
+            "clade": "Drover",
+            "breed": "Black Russian Terrier",
+            "source": "BRTR",
+            "target": "BMD",
+            "outValue": 11104145
+        },
+        {
+            "clade": "Drover",
+            "breed": "Black Russian Terrier",
+            "source": "BRTR",
+            "target": "LEON",
+            "outValue": 15864698
+        },
+        {
+            "clade": "Drover",
+            "breed": "Black Russian Terrier",
+            "source": "BRTR",
+            "target": "DANE",
+            "outValue": 13131064
+        },
+        {
+            "clade": "Drover",
+            "breed": "Rottweiler",
+            "source": "ROTT",
+            "target": "GSMD",
+            "outValue": 18445392
+        },
+        {
+            "clade": "Drover",
+            "breed": "Rottweiler",
+            "source": "ROTT",
+            "target": "LEON",
+            "outValue": 26906164
+        },
+        {
+            "clade": "Drover",
+            "breed": "Rottweiler",
+            "source": "ROTT",
+            "target": "STBD",
+            "outValue": 12943329
+        },
+        {
+            "clade": "Drover",
+            "breed": "Rottweiler",
+            "source": "ROTT",
+            "target": "DANE",
+            "outValue": 24142676
+        },
+        {
+            "clade": "Drover",
+            "breed": "Rottweiler",
+            "source": "ROTT",
+            "target": "CANE",
+            "outValue": 15018322
+        },
+        {
+            "clade": "Drover",
+            "breed": "Rottweiler",
+            "source": "ROTT",
+            "target": "BOER",
+            "outValue": 10608300
+        },
+        {
+            "clade": "Alpine",
+            "breed": "Greater Swiss Mountain Dog",
+            "source": "GSMD",
+            "target": "BMD",
+            "outValue": 91668418
+        },
+        {
+            "clade": "Alpine",
+            "breed": "Greater Swiss Mountain Dog",
+            "source": "GSMD",
+            "target": "LEON",
+            "outValue": 16969777
+        },
+        {
+            "clade": "Alpine",
+            "breed": "Greater Swiss Mountain Dog",
+            "source": "GSMD",
+            "target": "STBD",
+            "outValue": 57485142
+        },
+        {
+            "clade": "Alpine",
+            "breed": "Bernese Mountain Dog",
+            "source": "BMD",
+            "target": "LEON",
+            "outValue": 16617056
+        },
+        {
+            "clade": "Alpine",
+            "breed": "Bernese Mountain Dog",
+            "source": "BMD",
+            "target": "STBD",
+            "outValue": 34721330
+        },
+        {
+            "clade": "Alpine",
+            "breed": "Bernese Mountain Dog",
+            "source": "BMD",
+            "target": "DANE",
+            "outValue": 11363990
+        },
+        {
+            "clade": "Alpine",
+            "breed": "Leonberger",
+            "source": "LEON",
+            "target": "STBD",
+            "outValue": 44714096
+        },
+        {
+            "clade": "Alpine",
+            "breed": "Leonberger",
+            "source": "LEON",
+            "target": "DANE",
+            "outValue": 19773686
+        },
+        {
+            "clade": "Alpine",
+            "breed": "Leonberger",
+            "source": "LEON",
+            "target": "MAST",
+            "outValue": 11330397
+        },
+        {
+            "clade": "Alpine",
+            "breed": "Saint Bernard",
+            "source": "STBD",
+            "target": "DANE",
+            "outValue": 19281656
+        },
+        {
+            "clade": "Alpine",
+            "breed": "Saint Bernard",
+            "source": "STBD",
+            "target": "ITCC",
+            "outValue": 9746124
+        },
+        {
+            "clade": "Alpine",
+            "breed": "Saint Bernard",
+            "source": "STBD",
+            "target": "CANE",
+            "outValue": 13069198
+        },
+        {
+            "clade": "Alpine",
+            "breed": "Saint Bernard",
+            "source": "STBD",
+            "target": "BULM",
+            "outValue": 10144082
+        },
+        {
+            "clade": "Alpine",
+            "breed": "Saint Bernard",
+            "source": "STBD",
+            "target": "MAST",
+            "outValue": 37137750
+        },
+        {
+            "clade": "Alpine",
+            "breed": "Saint Bernard",
+            "source": "STBD",
+            "target": "DDBX",
+            "outValue": 18018511
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Rhodesian Ridgeback",
+            "source": "RHOD",
+            "target": "DANE",
+            "outValue": 20664136
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Rhodesian Ridgeback",
+            "source": "RHOD",
+            "target": "BOER",
+            "outValue": 13064995
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Great Dane",
+            "source": "DANE",
+            "target": "BOER",
+            "outValue": 16167088
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Great Dane",
+            "source": "DANE",
+            "target": "MAST",
+            "outValue": 12316287
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Cane Corso - COO",
+            "source": "ITCC",
+            "target": "CANE",
+            "outValue": 83222516
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Cane Corso - COO",
+            "source": "ITCC",
+            "target": "NEAP",
+            "outValue": 137961694
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Cane Corso - COO",
+            "source": "ITCC",
+            "target": "BULM",
+            "outValue": 13203916
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Cane Corso - COO",
+            "source": "ITCC",
+            "target": "MAST",
+            "outValue": 13950320
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Cane Corso - COO",
+            "source": "ITCC",
+            "target": "DDBX",
+            "outValue": 10847492
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Cane Corso - COO",
+            "source": "ITCC",
+            "target": "BOX",
+            "outValue": 33887133
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Cane Corso - USA",
+            "source": "CANE",
+            "target": "NEAP",
+            "outValue": 189821417
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Cane Corso - USA",
+            "source": "CANE",
+            "target": "BOER",
+            "outValue": 16746076
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Cane Corso - USA",
+            "source": "CANE",
+            "target": "BULM",
+            "outValue": 44316529
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Cane Corso - USA",
+            "source": "CANE",
+            "target": "MAST",
+            "outValue": 26389056
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Cane Corso - USA",
+            "source": "CANE",
+            "target": "DDBX",
+            "outValue": 17187764
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Cane Corso - USA",
+            "source": "CANE",
+            "target": "BULD",
+            "outValue": 13332949
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Cane Corso - USA",
+            "source": "CANE",
+            "target": "BOX",
+            "outValue": 62958638
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Boerboel",
+            "source": "BOER",
+            "target": "BULM",
+            "outValue": 83376444
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Boerboel",
+            "source": "BOER",
+            "target": "MAST",
+            "outValue": 41763970
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Boerboel",
+            "source": "BOER",
+            "target": "FBUL",
+            "outValue": 11204880
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Boerboel",
+            "source": "BOER",
+            "target": "BOST",
+            "outValue": 9851626
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Boerboel",
+            "source": "BOER",
+            "target": "DDBX",
+            "outValue": 11603131
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Boerboel",
+            "source": "BOER",
+            "target": "BULD",
+            "outValue": 44729452
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Boerboel",
+            "source": "BOER",
+            "target": "BOX",
+            "outValue": 31821716
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Bullmastiff",
+            "source": "BULM",
+            "target": "MAST",
+            "outValue": 143857208
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Bullmastiff",
+            "source": "BULM",
+            "target": "AMST",
+            "outValue": 11297363
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Bullmastiff",
+            "source": "BULM",
+            "target": "BOST",
+            "outValue": 12439400
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Bullmastiff",
+            "source": "BULM",
+            "target": "DDBX",
+            "outValue": 17966120
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Bullmastiff",
+            "source": "BULM",
+            "target": "BULD",
+            "outValue": 42755534
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Bullmastiff",
+            "source": "BULM",
+            "target": "BOX",
+            "outValue": 10264818
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "English Mastiff",
+            "source": "MAST",
+            "target": "DDBX",
+            "outValue": 26224667
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "English Mastiff",
+            "source": "MAST",
+            "target": "BULD",
+            "outValue": 16292836
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "English Mastiff",
+            "source": "MAST",
+            "target": "BOX",
+            "outValue": 11113087
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "American Staffordshire Terrier",
+            "source": "AMST",
+            "target": "STAF",
+            "outValue": 25534557
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "American Staffordshire Terrier",
+            "source": "AMST",
+            "target": "MBLT",
+            "outValue": 25270074
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "American Staffordshire Terrier",
+            "source": "AMST",
+            "target": "BULT",
+            "outValue": 28941476
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "American Staffordshire Terrier",
+            "source": "AMST",
+            "target": "FBUL",
+            "outValue": 16048059
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "American Staffordshire Terrier",
+            "source": "AMST",
+            "target": "BOST",
+            "outValue": 21843606
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "American Staffordshire Terrier",
+            "source": "AMST",
+            "target": "DDBX",
+            "outValue": 11151008
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "American Staffordshire Terrier",
+            "source": "AMST",
+            "target": "BULD",
+            "outValue": 18884416
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "American Staffordshire Terrier",
+            "source": "AMST",
+            "target": "BOX",
+            "outValue": 14776226
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Staffordshire Bull Terrier",
+            "source": "STAF",
+            "target": "MBLT",
+            "outValue": 46175422
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Staffordshire Bull Terrier",
+            "source": "STAF",
+            "target": "BULT",
+            "outValue": 39577765
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Staffordshire Bull Terrier",
+            "source": "STAF",
+            "target": "FBUL",
+            "outValue": 19575505
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Staffordshire Bull Terrier",
+            "source": "STAF",
+            "target": "BOST",
+            "outValue": 19786860
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Staffordshire Bull Terrier",
+            "source": "STAF",
+            "target": "DDBX",
+            "outValue": 11299107
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Staffordshire Bull Terrier",
+            "source": "STAF",
+            "target": "BULD",
+            "outValue": 19086962
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Staffordshire Bull Terrier",
+            "source": "STAF",
+            "target": "BOX",
+            "outValue": 11117569
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Miniature Bull Terrier",
+            "source": "MBLT",
+            "target": "MNTY",
+            "outValue": 10024711
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Miniature Bull Terrier",
+            "source": "MBLT",
+            "target": "BULT",
+            "outValue": 412093726
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Miniature Bull Terrier",
+            "source": "MBLT",
+            "target": "BOST",
+            "outValue": 12997359
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Bull Terrier",
+            "source": "BULT",
+            "target": "BOST",
+            "outValue": 11245228
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Bull Terrier",
+            "source": "BULT",
+            "target": "BULD",
+            "outValue": 12485244
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "French Bulldog",
+            "source": "FBUL",
+            "target": "BOST",
+            "outValue": 24113370
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "French Bulldog",
+            "source": "FBUL",
+            "target": "DDBX",
+            "outValue": 15074396
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "French Bulldog",
+            "source": "FBUL",
+            "target": "BULD",
+            "outValue": 27828491
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "French Bulldog",
+            "source": "FBUL",
+            "target": "BOX",
+            "outValue": 17768758
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Boston Terrier",
+            "source": "BOST",
+            "target": "DDBX",
+            "outValue": 10715614
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Boston Terrier",
+            "source": "BOST",
+            "target": "BULD",
+            "outValue": 21077885
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Boston Terrier",
+            "source": "BOST",
+            "target": "BOX",
+            "outValue": 13943000
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Dogue de Bordeaux",
+            "source": "DDBX",
+            "target": "BULD",
+            "outValue": 21793909
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Dogue de Bordeaux",
+            "source": "DDBX",
+            "target": "BOX",
+            "outValue": 50499236
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Bulldog",
+            "source": "BULD",
+            "target": "KERY",
+            "outValue": 11105890
+        },
+        {
+            "clade": "EuropeanMastiff",
+            "breed": "Bulldog",
+            "source": "BULD",
+            "target": "BOX",
+            "outValue": 34424332
+        }
+    ]
+}
